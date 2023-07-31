@@ -7,6 +7,7 @@ Algoram (AGM) can be mined now - download wallet, create your address (example A
 Config pool in wallet, download miner like T-Rex and start mining.
 
 ## Wallets
+
 Windows: https://github.com/AlgoramCore/Algoram/releases/download/1.0.0/AlgoramCore.zip
 Linux: coming soon
 
